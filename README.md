@@ -30,22 +30,27 @@
 <div align="center">
 
   <a href="https://youtu.be/HlwFQa5pZLA?si=YGV0t2ISz2Uj1uLu">
-    <img src="images/logo.png" alt="Logo" width="2000" height="2000">
-  </a> 
+    <img src="images/logo.png" alt="Logo" width="500" height="500">
+  </a>
 
-  <h3 align="center">SELENE's WEBSITE</h3>
+  <h3 align="center">SELENE's README</h3>
 
   <p align="center">
-    A not so awesome README! 
     <br />
-    <a href="https://github.com/selenelim"><strong>GITHUB </strong></a>
+    A not so awesome README! 
     <br />
     <br />
     <a href="https://www.instagram.com/bobo__selene/">View Instagram</a>
     ·
    <a href="https://open.spotify.com/user/uikw2g77k969251t8wjwz68v2?si=ae7b5b673b634f54">View Spotify</a>
-    
+
   </p>
+</div>
+
+<div style="display: flex;">
+  <img src="images/image.png" alt="Image 1" style="width: 30%; margin-right: 10px;" />
+  <img src="images/image copy.png" alt="Image 2" style="width: 30%; margin-right: 10px;" />
+  <img src="images/image copy 2.png" alt="Image 3" style="width: 30%;" />
 </div>
 
 
@@ -55,7 +60,7 @@
   <summary>Table of Contents </summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">About Me</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -78,12 +83,16 @@
 
 
 
+
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About Me
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+
+NAME : SELENE
+FROM : SINGAPORE POLYTECHNIC , DIPLOMA OF COMPUTER ENGINEERING
+
+
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
