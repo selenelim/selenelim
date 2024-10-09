@@ -25,24 +25,26 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="left">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Best-README-Template</h3>
+
+<div align="center">
+
+  <a href="https://youtu.be/HlwFQa5pZLA?si=YGV0t2ISz2Uj1uLu">
+    <img src="images/logo.png" alt="Logo" width="2000" height="2000">
+  </a> 
+
+  <h3 align="center">SELENE's WEBSITE</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A not so awesome README! 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/selenelim"><strong>GITHUB </strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://www.instagram.com/bobo__selene/">View Instagram</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+   <a href="https://open.spotify.com/user/uikw2g77k969251t8wjwz68v2?si=ae7b5b673b634f54">View Spotify</a>
+    
   </p>
 </div>
 
@@ -86,7 +88,7 @@ There are many great README templates available on GitHub; however, I didn't fin
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* You should implement DRY principles to the rest of your life :poop:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
@@ -170,8 +172,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [x] Add Changelog
 - [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [x] Add Additional Templates w/ Examples
+- [x] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Spanish
