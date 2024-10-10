@@ -226,7 +226,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-SELENE- [@bobo__selene](https://www.instagram.com/bobo__selene/) - bobofishballg@gmail.com - [spotify](https://open.spotify.com/user/uikw2g77k969251t8wjwz68v2?si=a06f0333efdb415b)
+SELENE- [@bobo__selene](https://www.instagram.com/bobo__selene/) - bobofishballg@gmail.com
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
