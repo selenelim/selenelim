@@ -226,9 +226,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+SELENE- [@bobo__selene](https://www.instagram.com/bobo__selene/) - bobofishballg@gmail.com - [spotify](https://open.spotify.com/user/uikw2g77k969251t8wjwz68v2?si=a06f0333efdb415b)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
