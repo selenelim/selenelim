@@ -87,7 +87,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-* My name is Selene
+* My name is selene
 * I am from Singapore Polytechnic 👎
 * Diploma of Computer Engineering :poop:
 
@@ -97,17 +97,42 @@
 
 
 <!-- GETTING STARTED -->
-## Introduction to Engineering / ET1025
+## YEAR 1 - SEMESTER 1
 
-This course is what a did in my first year 😰
-Coding language used was
+I did ET1025 Introduction to Engineering Programming.
+All work was taught in CPP language.
 
-### Prerequisites
+### Examples
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+This is an example of what i learnt in this module
+* switch
   ```sh
-  npm install npm@latest -g
+  #include <iostream>
+  #include <cmath>
+  #include <iomanip>
+  #define PI 3.14
+  using namespace std;
+
+  int main ()
+  {
+   double a=5.0 , b=10.0,c;
+   char operation ;
+   cout<< "Enter the operation [+,-,*,/]: ";
+   cin>>operation;
+   switch (operation)
+   {
+       case '+':c=a+b;
+       break;
+       case '-':c=a-b;
+       break;
+       case '*':c=a*b;
+       break;
+       case '/':c=a/b;
+       break;
+   }
+   cout<<a<<operation<<b<<"="<<c;
+  }
+
   ```
 
 ### Installation
