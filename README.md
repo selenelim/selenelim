@@ -18,8 +18,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!-->
+[![LinkedIn][linkedin-shield]][linkedin-url] for linkedin button?
 
 
 
@@ -56,6 +56,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
+<!-->
 <details>
   <summary>Table of Contents </summary>
   <ol>
@@ -134,7 +135,7 @@ This is an example of what i learnt in this module
   }
 
   ```
-
+ <!--
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
@@ -281,4 +282,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
