@@ -1,0 +1,7 @@
+[submodule "Best-README-Template"]
+    path = Best-README-Template
+    url = https://github.com/selenelim/Best-README-Template.git
+
+[submodule "selenelim.github.io"]
+    path = selenelim.github.io
+    url = https://github.com/selenelim/selenelim.github.io.git
