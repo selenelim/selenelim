@@ -18,14 +18,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<<<<<<< HEAD
 <!-->
 [![LinkedIn][linkedin-shield]][linkedin-url] for linkedin button?
-=======
-<!--
-[![LinkedIn][linkedin-shield]][linkedin-url]
->>>>>>> 55edea26058061cd2902346775c60f6f270dd977
-
 
 
 <!-- PROJECT LOGO -->
