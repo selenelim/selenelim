@@ -159,4 +159,7 @@ while True:
         print("Data entry stopped.")
         break  # Exit the loop if the user types 'stop'
 
+<<<<<<< HEAD
 '''
+=======
+>>>>>>> 55edea26058061cd2902346775c60f6f270dd977
