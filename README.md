@@ -88,8 +88,9 @@
 ## About Me
 
 * My name is selene
-* I am from Singapore Polytechnic 👎
-* Diploma of Computer Engineering :poop:
+* I am from Singapore Polytechnic 
+* Diploma of Computer Engineering 
+* Currently a Year 2 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -133,12 +134,17 @@ This is an example of what i learnt in this module
    cout<<a<<operation<<b<<"="<<c;
   }
 
+## YEAR 1 - SEMESTER 2
+I did  ET1024 Introduction to Engineering and Design. 
+I dabbled in using Arduino to do a project.
+
+
+## YEAR 2 - SEMESTER 1 
+I am currently taking the module ET0735 DevOps for AI.
+
+
   ```
-<<<<<<< HEAD
  <!--
-=======
-<!--
->>>>>>> 55edea26058061cd2902346775c60f6f270dd977
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
