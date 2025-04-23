@@ -138,12 +138,14 @@ This is an example of what i learnt in this module
 I did  ET1024 Introduction to Engineering and Design. 
 I dabbled in using Arduino to do a project.
 
+<img src="carrobot.png" alt="Image Description" style="width: 50%;" />
+
 
 ## YEAR 2 - SEMESTER 1 
 I am currently taking the module ET0735 DevOps for AI.
 
 
-\```
+\
  <!--
 ### Installation
 
