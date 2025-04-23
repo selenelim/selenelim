@@ -81,7 +81,7 @@ df.to_excel(file_path, engine='openpyxl', index=False)
 print("New data has been added successfully!")
 
 
-'''
+
 #Clear Excel Sheet
 import pandas as pd
 
@@ -97,7 +97,7 @@ empty_df.to_excel(file_path, index=False, engine='openpyxl')
 print(f"Excel file at {file_path} has been cleared.")
 
 
-'''
+        
 #more advanced.lol
 
 import pandas as pd
