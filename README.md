@@ -139,7 +139,11 @@ I did  ET1024 Introduction to Engineering and Design.
 I dabbled in using Arduino to do a project.
 
 
-<img src="images/carrobot.png" alt="Logo" width="500" height="500">
+<div style="display: flex;">
+  <img src="images/carrobot.png" alt="Image 1" style="width: 30%; margin-right: 10px;" />
+  <img src="images/image copy.png" alt="Image 2" style="width: 30%; margin-right: 10px;" />
+  <img src="images/image copy 2.png" alt="Image 3" style="width: 30%;" />
+</div>
 
 
 
