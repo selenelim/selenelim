@@ -1,1 +1,1 @@
-print("welcome to ET0735-DevOps, selene")
+print("welcome to ET0735-DevOps for AIoT, selene lim")
