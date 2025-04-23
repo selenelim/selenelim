@@ -141,8 +141,8 @@ I dabbled in using Arduino to do a project.
 
 <div style="display: flex;">
   <img src="images/carrobot.png" alt="Image 1" style="width: 30%; margin-right: 10px;" />
-  <img src="images/image copy.png" alt="Image 2" style="width: 30%; margin-right: 10px;" />
-  <img src="images/image copy 2.png" alt="Image 3" style="width: 30%;" />
+  <img src="images/car2.png" alt="Image 2" style="width: 30%; margin-right: 10px;" />
+  <img src="images/car3.png" alt="Image 3" style="width: 30%;" />
 </div>
 
 
