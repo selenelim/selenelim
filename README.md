@@ -149,10 +149,10 @@ This is an example of what i learnt in this module
 
 
 ## YEAR 2 - SEMESTER 1 ( AY25/26 S1 )
-I am currently taking the module ET0735 DevOps for AI.
+* I am currently taking the module ET0735 DevOps for AI.
+* I am also taking EP0401 Python Programming for Internet of Things as my elective this semester. 
 
 
-\
  <!--
 ### Installation
 
