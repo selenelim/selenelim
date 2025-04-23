@@ -143,7 +143,7 @@ I dabbled in using Arduino to do a project.
 I am currently taking the module ET0735 DevOps for AI.
 
 
-  ```
+\```
  <!--
 ### Installation
 
