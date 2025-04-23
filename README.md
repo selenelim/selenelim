@@ -98,7 +98,7 @@
 
 
 <!-- GETTING STARTED -->
-## YEAR 1 - SEMESTER 1
+## YEAR 1 - SEMESTER 1 ( AY24/25 S1 )
 
 I did ET1025 Introduction to Engineering Programming.
 All work was taught in CPP language.
@@ -134,9 +134,10 @@ This is an example of what i learnt in this module
    cout<<a<<operation<<b<<"="<<c;
   }
 
-## YEAR 1 - SEMESTER 2
-I did  ET1024 Introduction to Engineering and Design. 
-I dabbled in using Arduino to do a project.
+## YEAR 1 - SEMESTER 2 ( AY24/25 S2 )
+* I did  ET1024 Introduction to Engineering and Design. 
+* I dabbled in using Arduino to do a project to make a waste collector to prevent trash from overflowing.
+* I used ultrasonic sensors, IR sensors, LCD display and a wifi module.
 
 
 <div style="display: flex;">
@@ -147,7 +148,7 @@ I dabbled in using Arduino to do a project.
 
 
 
-## YEAR 2 - SEMESTER 1 
+## YEAR 2 - SEMESTER 1 ( AY25/26 S1 )
 I am currently taking the module ET0735 DevOps for AI.
 
 
