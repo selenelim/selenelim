@@ -138,7 +138,9 @@ This is an example of what i learnt in this module
 I did  ET1024 Introduction to Engineering and Design. 
 I dabbled in using Arduino to do a project.
 
-<img src="carrobot.png" alt="Image Description" style="width: 50%;" />
+<a href="https://youtu.be/HlwFQa5pZLA?si=YGV0t2ISz2Uj1uLu">
+    <img src="carrobot.png" alt="Logo" width="500" height="500">
+  </a>
 
 
 ## YEAR 2 - SEMESTER 1 
