@@ -53,7 +53,7 @@
 </div>
 
 
-<!---
+
 <!-- TABLE OF CONTENTS -->
 <!-->
 <details>
@@ -81,7 +81,7 @@
   </ol>
 </details>
 
-----!>
+
 
 
 <!-- ABOUT THE PROJECT -->
