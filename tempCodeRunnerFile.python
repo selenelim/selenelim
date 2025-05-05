@@ -37,7 +37,7 @@ def sort_temperature(float_list):
 def calc_median_temp(float_list):
     # Calculate the median of the list
     n = len(float_list)
-    sorted_list = sorted_temperature(float_list)  # Reuse the sort function
+    sorted_list = sort_temperature(float_list)  # Reuse the sort function
     if n % 2 == 1:
         median = sorted_list[n // 2]
     else:
