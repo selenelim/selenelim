@@ -49,4 +49,4 @@ float_list = get_user_input()  # Get the user input
 calc_average(float_list)  # Calculate average
 find_min_max(float_list)  # Find min and max
 sort_temperature(float_list)  # Sort temperatures
-calc_median_temp(float_list)  # Calculate media
+calc_median_temp(float_list)  # Calculate median
