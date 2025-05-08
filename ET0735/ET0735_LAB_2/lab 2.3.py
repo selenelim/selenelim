@@ -6,7 +6,7 @@ def display_main_menu():
 
 def calc_average(float_list):
     # Calculate the average of the numbers
-    if len(float_list) > 0:
+    if len(float_list) > 0:                             #len is used to return the number of items in list
         average = sum(float_list) / len(float_list)
         print(f"Average: {average}")
     else:
