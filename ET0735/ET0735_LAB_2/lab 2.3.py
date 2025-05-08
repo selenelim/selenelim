@@ -46,7 +46,7 @@ def calc_median_temp(float_list):
 
 # Main program execution
 float_list = get_user_input()  # Get the user input
-calc_average(float_list)  # Calculate average
 find_min_max(float_list)  # Find min and max
+calc_average(float_list)  # Calculate average
 sort_temperature(float_list)  # Sort temperatures
 calc_median_temp(float_list)  # Calculate median
