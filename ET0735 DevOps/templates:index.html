@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart Drink Vending</title>
+</head>
+<body>
+    <h1>Order a Drink</h1>
+    <form method="POST" action="/order">
+        <label>Customer ID:</label><br>
+        <input type="text" name="customer_id" required><br><br>
+        <label>Select Drink:</label><br>
+        <select name="drink">
+            <option value="Coke">Coke</option>
+            <option value="Pepsi">Pepsi</option>
+            <option value="Sprite">Sprite</option>
+        </select><br><br>
+        <button type="submit">Order & Generate QR</button>
+    </form>
+</body>
+</html>
