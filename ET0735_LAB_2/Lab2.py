@@ -12,12 +12,14 @@ def calc_average(float_list):
     else:
         print("No numbers to calculate average.")
 
-def get_user_input():
+def get_user_input(input_string=None):
     print("get_user_input")
-    x = input("Enter numbers separated by commas: ")
-    x_list = x.split(",")
+    if input_string is None:
+        input_string = input("Enter numbers separated by commas: ")
+    x_list = input_string.split(",")
     float_list = [float(num.strip()) for num in x_list]
     return float_list
+
 
 def find_min_max(float_list):
     # Find the minimum and maximum values
