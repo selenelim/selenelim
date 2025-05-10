@@ -1,13 +1,15 @@
-import Lab2.bmi as bmi  # Import the updated bmi.py file
+# test_bmi.py
 
-def test_bmi_under_weight():
-    _, category = bmi.calculate_bmi(1.73, 50)
-    assert category == -1
+import bmi  # Import the bmi.py file from Lab 2
 
 def test_bmi_normal_weight():
-    _, category = bmi.calculate_bmi(1.73, 57)
-    assert category == 0
+    bmi_value, classification = bmi.calculate_bmi(1.75, 70)  # Test with height 1.75m and weight 70kg
+    assert classification == 0  # Check if the classification is "Normal weight"
 
 def test_bmi_over_weight():
-    _, category = bmi.calculate_bmi(1.73, 80)
-    assert category == 1
+    bmi_value, classification = bmi.calculate_bmi(1.75, 90)  # Test with height 1.75m and weight 90kg
+    assert classification == 1  # Check if the classification is "Overweight"
+
+def test_bmi_under_weight():
+    bmi_value, classification = bmi.calculate_bmi(1.75, 50)  # Test with height 1.75m and weight 50kg
+    assert classification == -1  # Check if the classification is "Underweight"
