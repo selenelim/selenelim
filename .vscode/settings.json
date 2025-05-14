@@ -6,7 +6,7 @@
     },
     "C_Cpp.errorSquiggles": "disabled",
     "python.testing.pytestArgs": [
-        "ET0735"
+        "ET0735_LAB_2"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
